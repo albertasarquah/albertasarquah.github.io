@@ -1,0 +1,33 @@
+    @charset "UTF-8";
+
+    body
+    {
+        margin: 30px;
+        padding:0px;
+        background-color:#F5F5F5;
+        font-family: "Times New Roman", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size:20px;
+        text-align:left;
+    }
+
+    #page
+    {
+        max-width:1800px;
+        margin: 20px auto;
+        padding:30px;
+        background-color:#F5F5F5;
+
+    }
+
+    #header/* Styles for Heading
+    */
+    {
+        padding:5px;
+        background-color:#F5F5F5;
+        text-align:center
+    }
+
+    img
+    {
+        border: double 10px #F5F5F5;
+    }
